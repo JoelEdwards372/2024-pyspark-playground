@@ -1,5 +1,7 @@
 # About the repo
 https://www.youtube.com/watch?v=FteThJ-YvXk
+https://medium.com/@MarinAgli1/setting-up-a-spark-standalone-cluster-on-docker-in-layman-terms-8cbdc9fdd14b
+
 I started this repo because I wanted to learn PySpark.
 However, I also didn't want to use Jupyter notebook as it
 is typically the case in the examples I came across. 
